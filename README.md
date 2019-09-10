@@ -1,4 +1,12 @@
 # E02a-Operators
+# Description:
+# In this assignment, we practice with a lot of different operators and function
+# to get the value we want. We praticed from the basic such as adding to some 
+# built-in function such as shuffle. 
+# Since I learned Python before This assignment will help to refresh my memory of 
+# how to use different methods and operators. Also, there are some methods which 
+# are useful and new to me.
+
 An exercise exploring python operators and data types
 
 This repository contains a few files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.

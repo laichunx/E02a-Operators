@@ -38,7 +38,7 @@ def floorDiv(a1,a2):
     Divides a1 by a2 with remainder rounded down
     '''
     toReturn = 0
-    toReturn = a1 / a2
+    toReturn = int(a1 / a2)
     return toReturn
 
 def mod(a1,a2):
@@ -138,6 +138,8 @@ def isIn(l,e):
     toReturn = ''
     if e in l:
         toReturn = True
+    else:
+        toReturn = False
     #hellllloooooooowwwwwoooorldddddd!!!
     return toReturn
 
